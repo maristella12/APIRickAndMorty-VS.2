@@ -1,4 +1,5 @@
 # APIRickAndMorty-VS.2
+Projeto disponível no endereço www.fixaportfolio.com.br/rickandmortys2
 
 Rick and Morty Character Finder
 Este é um projeto web simples e divertido que permite buscar informações de personagens da série Rick and Morty, utilizando a API pública Rick and Morty API.
