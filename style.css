@@ -104,6 +104,7 @@ input[type="number"] {
     width: 600px;
     height: 700px;
     overflow-y: auto; /* Permite rolagem se o conteúdo for maior que a área */
+<<<<<<< HEAD
     background-image: url(./assets/rickandmorty3.jpg);
     background-size: 100%;
     background-position: center;
@@ -112,4 +113,10 @@ input[type="number"] {
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     background-color: rgba(0, 0, 0, 0.2); /* preto com 50% de opacidade */
+=======
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+>>>>>>> f0fa69a3bbcf9e98c5890e2ea89bdf895d590f97
 }
